@@ -6,7 +6,7 @@ IRsend irsend ;
 
 void setup( )
 {
-irsend.sendNEC(0x20dfc03f, 32); // This command is for volume up
+irsend.sendNEC(0x20DF10EF, 32); // This command is for POWER for Vizio 
 }
 
 void loop( ) {
