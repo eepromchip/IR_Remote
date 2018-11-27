@@ -1,7 +1,7 @@
 // This code is for the IR emitter Module
 // install the library before uploading the code
 #include <Arduino.h>
-#include < IRremote.h >
+#include <IRremote.h>
 
 IRsend irsend ;
 
